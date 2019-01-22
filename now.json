@@ -1,7 +1,7 @@
 {
     "version": 2,
     "name": "zeit",
-    "alias": "jetztein.de",
+    "alias": "maxi.now.sh",
     "builds": [{ "src": "package.json", "use": "@now/static-build" }],
     "regions": ["bru"],
     "routes": [
